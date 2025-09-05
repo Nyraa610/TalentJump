@@ -1,7 +1,3 @@
-**3\. Documentation et Code**
-
-* Un **dépôt Git** partagé par le groupe avec des commits réguliers et explicites.  
-* Un fichier README.md complet (description, répartition des tâches, instructions d'exécution, choix de conception).
 
 ## 
 
